@@ -1,0 +1,3 @@
+started_at_localtime,ended_at_localtime,experiment,pioreactor_unit,started_at,ended_at,automation_name,settings
+2023-11-28 00:26:39,2023-11-28 00:26:39,Spirulina 003,pio001,2023-11-28T00:26:39.466233Z,2023-11-28T00:26:39.466574Z,thermostat,eyJ0YXJnZXRfdGVtcGVyYXR1cmUiOjMyLjV9
+2023-11-29 17:56:03,2023-11-29 17:56:03,Spirulina 003,pio001,2023-11-29T17:56:03.780032Z,2023-11-29T17:56:03.780463Z,thermostat,eyJ0YXJnZXRfdGVtcGVyYXR1cmUiOjMyLjV9
