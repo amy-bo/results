@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
