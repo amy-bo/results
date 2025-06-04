@@ -1,0 +1,3 @@
+started_at_localtime,ended_at_localtime,experiment,pioreactor_unit,started_at,ended_at,automation_name,settings
+2024-08-11 07:17:15,2024-08-11 07:17:16,Booch01,pio02,2024-08-11T06:17:15.996556Z,2024-08-11T06:17:16.084151Z,chemostat,eyJ2b2x1bWUiOm51bGwsImR1cmF0aW9uIjoxLjAsInN0YXRlIjoiaW5pdCJ9
+2024-08-11 07:17:16,2024-08-11 07:17:16,Booch01,pio02,2024-08-11T06:17:16.084291Z,2024-08-11T06:17:16.106545Z,chemostat,eyJ2b2x1bWUiOjE1LjAsImR1cmF0aW9uIjoxLjAsInN0YXRlIjoiaW5pdCJ9
